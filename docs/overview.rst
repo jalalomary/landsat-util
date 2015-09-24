@@ -19,7 +19,7 @@ Search returns information about all landsat tiles that match your criteria.  Th
 Search for landsat tiles in a given geographical region, using any of the following:
 
 - **Paths and rows**: If you know the paths and rows you want to search for.
-- **Latidue and Longitude**: If you need the latitude and longitude of the point you want to search for.
+- **Latitude and Longitude**: If you need the latitude and longitude of the point you want to search for.
 
 Additionally filter your search using the following parameters:
 
